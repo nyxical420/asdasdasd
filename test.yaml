@@ -1,0 +1,10 @@
+pageData:
+  title: PageTitle Here
+  description: Embed description
+
+jinki: |
+  This is a newline
+
+  basiucally allows more lines to be added n stuff
+
+  can support jinki syntaxes (including custom ones added)
